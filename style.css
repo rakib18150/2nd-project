@@ -1,0 +1,98 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: deeppink;
+}
+.a{
+    color: blue;
+    font-size: 80px;
+}
+.half-width{
+    
+    height: 40%;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+   
+ 
+}
+.half-width img{
+    width: 500px;
+    height: 500px;
+
+}
+.b{
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+   background-size: 100%;
+
+}
+section{
+    height: 800px;
+
+}
+.l{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+
+}
+.half-width1{
+    height: 40%;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+
+}
+.d{
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.c{
+    text-align: center;
+ 
+}
+
+.i{
+    height: 30%;
+   width: 30;
+    float: left;
+    margin-left: 2%;
+    padding: 2%;
+    
+
+}
+.i img{
+    width: 400px;
+    height: 400px;
+   
+} 
+.j{
+    text-decoration: none;
+   
+    background-color: orange;
+    padding: 10px;
+   
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    
+    margin: 20%;
+}
+.e{
+    background-image: url(personal-website/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
